@@ -13,6 +13,8 @@ O projeto pode ser acessado por este link: <br>
 
 📱 **Design responsivo**: Permite o acesso por todo tipo de dispositivo, oferecendo uma boa experiência em todos os tipos de telas.  
 
+📊 **Gráficos interativos**: Com o uso de Chart.js, visualize dados importantes como ganhos, número de professores, alunos ou funcionários de forma clara e dinâmica.
+
 🔗 **Deploy online:** O seu deploy foi feito na vercel e pode ser acessado por qualquer um.
 
 ## Tecnologias Utilizadas 💻
@@ -22,8 +24,6 @@ O projeto pode ser acessado por este link: <br>
 **CSS**: Utilizado para estilizar os elementos da página, garantindo um visual atrativo e responsivo.  
 
 **Javascript**: Implementado para criar interatividade, como o carrossel de produtos e a funcionalidade de lupa para facilitar a navegação.  
-
-**Boxicons**: Biblioteca de ícones utilizada para enriquecer a interface, oferecendo uma ampla variedade de ícones que são facilmente customizáveis.
 
 **Vercel**: Plataforma utilizada para fazer o deploy e deixar a aplicação online.
 
