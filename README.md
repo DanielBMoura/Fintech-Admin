@@ -19,7 +19,7 @@ O projeto pode ser acessado por este link: <br>
 
 ## Tecnologias Utilizadas 💻
 
-**HTML**: Responsável pela estruturação da interface do usuário.
+**HTML**: Linguagem de marcação utilizada para estruturar a interface da aplicação.
 
 **CSS**: Utilizado para estilizar os elementos da página, garantindo um visual atrativo e responsivo.  
 
