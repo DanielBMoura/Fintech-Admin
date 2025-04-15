@@ -23,7 +23,7 @@ O projeto pode ser acessado por este link: <br>
 
 **CSS**: Utilizado para estilizar os elementos da página, garantindo um visual atrativo e responsivo.  
 
-**Javascript**: Implementado para criar interatividade, como o carrossel de produtos e a funcionalidade de lupa para facilitar a navegação.  
+**Chart.js**: Biblioteca JavaScript usada para criar gráficos interativos e dinâmicos, permitindo a visualização de dados de forma clara e intuitiva.  
 
 **Vercel**: Plataforma utilizada para fazer o deploy e deixar a aplicação online.
 
@@ -32,7 +32,7 @@ O projeto pode ser acessado por este link: <br>
 Para clonar o repositório, execute o seguinte comando:
 
 ```bash
-git clone https://github.com/DanielBMoura/EE-Company.git
+git clone https://github.com/DanielBMoura/Fintech-Admin.git
 ```
 
 ## Considerações finais 📝
